@@ -1,1 +1,14 @@
 # P112-20190613-HTML-CSS-Links-Colors-Backgrounds
+Faydalı linklər:
+- https://www.rapidtables.com/code/text/unicode-characters.html
+- https://www.w3schools.com/html/html_links.asp
+- https://www.w3schools.com/css/css_colors.asp
+- https://www.w3schools.com/css/css_background.asp
+- https://www.w3schools.com/cssref/css3_pr_background.asp
+- https://www.w3schools.com/cssref/pr_background-attachment.asp
+- https://www.w3schools.com/cssref/pr_background-color.asp
+- https://www.w3schools.com/cssref/pr_background-image.asp
+- https://www.w3schools.com/cssref/css3_pr_background-origin.asp
+- https://www.w3schools.com/cssref/pr_background-position.asp
+- https://www.w3schools.com/cssref/pr_background-repeat.asp
+- https://www.w3schools.com/cssref/css3_pr_background-size.asp

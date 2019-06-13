@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/CA-Wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+
+.note-section {
+    background-color: yellow;
+    border-left: 6px solid goldenrod;
+    border-left-width: 6px;
+    border-left-style: solid;
+    border-left-color: goldenrod;
+
+    padding: 12px 10px;
+    font-family: sans-serif;
+
+    border-radius: 10px;
+    background-image: url("../images/download2.png");
+
+    height: 200px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+    background-size: cover;
+}
+
+.note-section a {
+    color: black;
+}
+
+.red-button {
+    background-color: rgba(27, 58, 231, 0.219);
+    color: white;
+    padding: 15px 20px; 
+    text-decoration: none;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
